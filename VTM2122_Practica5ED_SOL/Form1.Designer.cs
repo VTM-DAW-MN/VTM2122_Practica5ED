@@ -36,8 +36,8 @@ namespace VTM2122_Practica5ED_SOL
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.notaAlu = new System.Windows.Forms.NumericUpDown();
-            ((System.ComponentModel.ISupportInitialize)(this.notaAlu)).BeginInit();
+            this.aluNota = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).BeginInit();
             this.SuspendLayout();
             // 
             // aluNombre
@@ -102,19 +102,19 @@ namespace VTM2122_Practica5ED_SOL
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // notaAlu
+            // aluNota
             // 
-            this.notaAlu.Location = new System.Drawing.Point(371, 59);
-            this.notaAlu.Name = "notaAlu";
-            this.notaAlu.Size = new System.Drawing.Size(71, 20);
-            this.notaAlu.TabIndex = 8;
+            this.aluNota.Location = new System.Drawing.Point(371, 59);
+            this.aluNota.Name = "aluNota";
+            this.aluNota.Size = new System.Drawing.Size(71, 20);
+            this.aluNota.TabIndex = 8;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(574, 319);
-            this.Controls.Add(this.notaAlu);
+            this.Controls.Add(this.aluNota);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -124,7 +124,7 @@ namespace VTM2122_Practica5ED_SOL
             this.Controls.Add(this.aluNombre);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.notaAlu)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.aluNota)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -139,7 +139,7 @@ namespace VTM2122_Practica5ED_SOL
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.NumericUpDown notaAlu;
+        private System.Windows.Forms.NumericUpDown aluNota;
     }
 }
 
