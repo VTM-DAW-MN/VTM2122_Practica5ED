@@ -43,6 +43,8 @@ namespace VTM2122_Practica5ED_SOL
              misAlumnos.Agregar(miAlumno);
 
         }
+
+
     }
 
     class Alumno
