@@ -8,3 +8,13 @@ D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL
 D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.csproj.CoreCompileInputs.cache
 D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.exe
 D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.pdb
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\bin\Debug\VTM2122_Practica5ED_SOL.exe.config
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\bin\Debug\VTM2122_Practica5ED_SOL.exe
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\bin\Debug\VTM2122_Practica5ED_SOL.pdb
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.csproj.AssemblyReference.cache
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.Form1.resources
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.Properties.Resources.resources
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.csproj.GenerateResource.cache
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.exe
+C:\Users\vicen\Source\Repos\VTM-DAW-MN\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.pdb
