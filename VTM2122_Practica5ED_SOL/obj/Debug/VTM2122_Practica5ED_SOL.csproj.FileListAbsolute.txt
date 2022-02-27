@@ -1,0 +1,10 @@
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\bin\Debug\VTM2122_Practica5ED_SOL.exe.config
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\bin\Debug\VTM2122_Practica5ED_SOL.exe
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\bin\Debug\VTM2122_Practica5ED_SOL.pdb
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.csproj.AssemblyReference.cache
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.Form1.resources
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.Properties.Resources.resources
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.csproj.GenerateResource.cache
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.csproj.CoreCompileInputs.cache
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.exe
+D:\Users\vicen\Desktop\DAW\Repos_DAW\VTM2122_Practica5ED\VTM2122_Practica5ED_SOL\obj\Debug\VTM2122_Practica5ED_SOL.pdb
